@@ -19,17 +19,17 @@ Harness the power of robust task management functionalities
 Unlock batch task execution, interrupt capabilities, and execute single tasks on a large scale for unparalleled efficiency
 
 ### How to use WeShop AI Locally
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_1.png?raw=true)
 Click the "Start" button on the bottom right to launch the tool. Depending on the computer's specification, it takes some time to launch.
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_2.png?raw=true)
 This website will pop up after the software is launched. Select the type of task desired to be executed. Currently, functionalities include text-to-image (txt2img) and image-to-image (img2img).
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_3.png?raw=true)
 Select desired parameters for image generations.
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_4.png?raw=true)
 Further refine generations by selecting desired ControlNet and AfterDetailer parameters. Click the "Generate" button on bottom right to start generation process.
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_5.png?raw=true)
 Resulting images will shortly be displayed after generation process is finished. Click "Edit again" button on the top right to adjust parameters or generate again.
-
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_6.png?raw=true)
 For any bugs encountered, click the "BUG Report" button, then bug info will be sent. Alternatively, you can send feedback from our Github page <https://github.com/weshopai/WeShop-UI>
 
 ### Download

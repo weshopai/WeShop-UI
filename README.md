@@ -2,7 +2,7 @@
 
 ### WeShop_UI_1.0.0
 
-Welcome to WeShop_UI_1.0.0! This software is an open-source solution derived from our site: <https://www.weshop.ai>, which specialize in generating images using AI. This open-source software is derived from our tool. We've extracted some business/professional functionalities, removed proprietary elements, and are gradually releasing parts of our services to the public. Our goal is to foster innovation and collaboration in AI-powered image creation while maintaining our core business offerings. WeShop UI features multi-task management, and a simple user interface. The Github page for this project is <https://github.com/weshopai/WeShop-UI>
+Welcome to WeShop_UI_1.0.0! This software is an open-source solution derived from our site: <https://www.weshop.ai>, which specialize in generating images using AI. This open-source software is derived from our tool. We've extracted some business/professional functionalities, removed proprietary elements, and are gradually releasing parts of our services to the public. Our goal is to foster innovation and collaboration in AI-powered image creation while maintaining our core business offerings. WeShop UI features multi-task management, and a simple user interface.
 
 ### Description
 

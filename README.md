@@ -1,46 +1,81 @@
 # WeShop-UI
 
-### WeShop_UI_1.0.0
+Welcome to Weshop_UI_1.0.0! This software is an open-source solution derived from our site: https://www.weshop.ai, which specialize in generating images using AI. We've extracted some business/professional functionalities, removed proprietary elements, and are gradually releasing parts of our services to the public. Our goal is to foster innovation and collaboration in AI-powered image creation while maintaining our core business offerings. WeShop UI features multi-task management, and a simple and user-friendly interface, perfect for beginners.
 
-Welcome to WeShop_UI_1.0.0! This software is an open-source solution derived from our site: <https://www.weshop.ai>, which specialize in generating images using AI. This open-source software is derived from our tool. We've extracted some business/professional functionalities, removed proprietary elements, and are gradually releasing parts of our services to the public. Our goal is to foster innovation and collaboration in AI-powered image creation while maintaining our core business offerings. WeShop UI features multi-task management, and a simple user interface.
+# Introduction
 
-### Description
+Weshop_UI_1.0.0 is an open-source solution that brings some functionalities of weshop.ai to your local operation. Weshop_UI_1.0.0 leverages Stable Diffusion Webui as its core inference engine, enabling you to deploy https://weshop.ai functionalities locally and generate high-quality AI images without internet or cloud reliance.
 
-WeShop_UI_1.0.0 is an open-source solution that brings some functionalities of weshop.ai to your local operation. This software harnesses the power of your local GPU to create stunning AI-generated images without requiring an internet connection and cloud compute.
+# News
+* 2024.07 We officially launched WeShop UI
 
-### Features
+# Open-source Plan
 
-Seamlessly integrated SD WebUI functionalities, supporting SDXL model and SDXL's Controlnet
+Currently, we've open sourced web and Electron frontend, changes made for Automatic1111 Stable Diffusion Webui. Our plan regarding key functionalities is listed below:
 
-Enable shared graphics card utilization for enhanced performance
+- [x] Keep upgrading Webui with the latest one on https://github.com/AUTOMATIC1111/stable-diffusion-webui
+      
+- [x] Open source the front end part of this project
 
-Harness the power of robust task management functionalities
+- [ ] Refactor and open source the backend part of this project. This project uses compiled executables currently.
 
-Unlock batch task execution, interrupt capabilities, and execute single tasks on a large scale for unparalleled efficiency
+- [ ] Support ComfyUI simultaneously.
 
-### How to use WeShop AI Locally
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_1.png?raw=true)
+- [ ] Support multiple-GPU inference scheduling.
+  
+- [ ] Gradually adapt workflows/features from https://weshop.ai
+
+- [ ] More functions to come and feel free to leave you feedbacks!
+
+# Features
+
+1. Seamlessly integrated SD WebUI functionalities, supporting SDXL model and SDXL's Controlnet
+
+2. Enable shared graphics card utilization for enhanced performance
+
+3. Harness the power of robust task management functionalities
+
+4. Unlock batch task execution, interrupt capabilities, and execute single tasks on a large scale for unparalleled efficiency
+
+# How to use WeShop AI Locally
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/1.png?raw=true)
+
 Click the "Start" button on the bottom right to launch the tool. Depending on the computer's specification, it takes some time to launch.
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_2.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/2.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/3.png?raw=true)
+
 This website will pop up after the software is launched. Select the type of task desired to be executed. Currently, functionalities include text-to-image (txt2img) and image-to-image (img2img).
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_3.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/4.png?raw=true)
+
 Select desired parameters for image generations.
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_4.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/5.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/6.png?raw=true)
+
 Further refine generations by selecting desired ControlNet and AfterDetailer parameters. Click the "Generate" button on bottom right to start generation process.
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_5.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/7.png?raw=true)
+
 Resulting images will shortly be displayed after generation process is finished. Click "Edit again" button on the top right to adjust parameters or generate again.
-![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/image_6.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/8.png?raw=true)
+
 For any bugs encountered, click the "BUG Report" button, then bug info will be sent. Alternatively, you can send feedback from our Github page <https://github.com/weshopai/WeShop-UI>
 
-### Download
+# Requirements
+
+- Windows 7 or above system
+  
+- 8GB VRAM Nvidia GPU
+  
+- 16GB RAM
+
+# Download
 
 You can download WeShop UI 1.0.0 from the following sources:
 
-Huggingface: <https://huggingface.co/WeShopAI/Weshop_UI_1.0.0>
+Huggingface: <https://huggingface.co/WeShopAI/WeShop_UI_1.0.0>
 
 Steam: in progress
 
-### Installation & Usage
+# Installation & Usage
 
 Unzip weshop-1.0.0.zip and weshop-model-pack.zip
 
@@ -54,21 +89,17 @@ Click weshop.exe to launch
 
 For Steam users, find Weshop_AI in the market, then directly launch the software from Steam.
 
-### Roadmap
+# Gallery
 
-Currently, we've open sourced web and Electron frontend, changes made for Automatic1111 Stable Diffusion Webui. Our plan regarding key functionalities is listed below:
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/9.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/10.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/11.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/12.png?raw=true)
+![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/13.png?raw=true)
 
-- [x] ~~Keep upgrading Webui with the latest one on <https://github.com/AUTOMATIC1111/stable-diffusion-webui>~~
 
-- [ ] Refactor and open source the backend part of this project. This project uses compiled executables currently.
 
-- [ ] Support ComfyUI simultaneously.
-
-- [ ] Support multiple-GPU inference scheduling.
-
-- [ ] More functions to come and feel free to leave you feedbacks!
-
-### Acknowledgements
+# Acknowledgements
 
 This project makes use of the following open-source projects:
 

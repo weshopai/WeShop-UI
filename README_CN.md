@@ -30,7 +30,7 @@ WeShop_UI_1.0.0 是[weshop.com](https://www.weshop.com)的开源版本，它能�
   
 - [ ] 逐步适配来自[weshop.com](https://www.weshop.com)的workflow和功能 
 
-- [ ] More functions to come and feel free to leave you feedbacks!
+- [ ] 更多功能即将推出，请留下反馈和建议，帮助我们改进产品
 
 # 功能
 

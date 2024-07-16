@@ -8,7 +8,7 @@ Welcome to Weshop_UI_1.0.0! This software is an open-source solution derived fro
 
 # Introduction
 
-Weshop_UI_1.0.0 is an open-source solution that brings some functionalities of weshop.ai to your local operation. Weshop_UI_1.0.0 leverages Stable Diffusion Webui as its core inference engine, enabling you to deploy [WeShop.AI](https://weshop.ai) functionalities locally and generate high-quality AI images without internet or cloud reliance.
+This project is an open-source solution that brings functionalities of [WeShop.AI](https://weshop.ai) to your local operation. Weshop_UI_1.0.0 leverages Stable Diffusion Webui as its core inference engine, enabling you to deploy [WeShop.AI](https://weshop.ai) functionalities locally and generate high-quality AI images without internet or cloud reliance.
 
 # News
 

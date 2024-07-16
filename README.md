@@ -1,12 +1,6 @@
 <p align="left">
     English</a>&nbsp ｜ &nbsp<a href="README_CN.md">中文</a>&nbsp
 </p>
-<br><br>
-
-<p align="center">
-    <img src="imgs/logo.png" width="400"/>
-<p>
-<br>
 
 # WeShop-UI
 

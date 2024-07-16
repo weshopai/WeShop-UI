@@ -61,7 +61,7 @@ WeShop_UI_1.0.0 是[weshop.com](https://www.weshop.com)的开源版本，它能�
 生成过程完成后，生成的图像将很快显示。单击右上方的“再次编辑”按钮以调整参数或再次生成。
 ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/cn_8.png?raw=true)
 
-对于遇到的任何错误，请单击“错误报告”按钮，然后将发送错误信息。或者可以从我们的 Github 页面 https://github.com/weshopai/WeShop-UI 发送反馈
+对于遇到的任何错误，请单击“提交BUG”按钮，然后将发送错误信息。或者可以从我们的 Github 页面 https://github.com/weshopai/WeShop-UI 发送反馈
 
 # 系统要求
 
@@ -91,7 +91,7 @@ Steam: 即将推出
   
 4. 单击 weshop.exe 启动 
 
-对于 Steam 用户，请在商店中找到 Weshop_AI，然后直接通过 Steam 启动软件。
+对于 Steam 用户，请在商店中找到 WeShop_AI，然后直接通过 Steam 启动软件。
 
 # 图库
 
@@ -103,13 +103,13 @@ Steam: 即将推出
 
 
 
-# 致谢
+# 致谢 
 
 该项目使用了以下开源项目：
 
-<https://github.com/sgreben/http-file-server>: 用于存储创建的必要本地文件的服务器
+<https://github.com/sgreben/http-file-server>: 用于存储程序运行过程中产生的文件
 
-<https://github.com/pierrre/imageserver>: 专门用于存储创建的图像文件的服务器 
+<https://github.com/pierrre/imageserver>: 用于存储程序运行过程中产生的图像文件
 
 <https://github.com/facebookresearch/segment-anything>: 对上传的图像进行分割以创建蒙版 
 

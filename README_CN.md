@@ -34,14 +34,36 @@ WeShop_UI_1.0.0 是[weshop.com](https://www.weshop.com)的开源版本，它能�
 
 # 功能
 
-1. 集成 SD WebUI 功能，支持 SDXL 模型和 SDXL 的 Controlnet
-   
-2. 共享显卡利用率以提高性能
-   
-3. 拥有高效的任务管理功能
-   
-4. 批量任务执行，批量任务执行，组合不同参数大规模执行单个任务
-
+1. 任务管理
+   * **永久记录**：保存所有执行记录，便于历史追踪。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_1.png?raw=true)
+   * **任务编辑**：支持对同一任务进行再次编辑和执行，方便参数微调后的对比分析。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_2.png?raw=true)
+   * **任务命名**：允许对任务进行命名，便于快速查找和管理。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_3.png?raw=true)
+2. 异步UI设计
+   * **无需等待**：执行任务时无需原地等待，可同时编辑其他任务。
+3. 集成选区工具
+   * **SegmentAnything集成**：提供所见即所得的编辑选区，支持反选和画笔等实用功能。
+   * **上传蒙版图**：支持上传自定义蒙版图
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_4.png?raw=true)
+4. 星标功能
+   * **收藏与展示**：允许用户收藏优秀案例，并置顶展示，快速查看对比图和定位执行记录。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_5.png?raw=true)
+5.  批量任务创建
+   * **参数组合**：支持基于不同参数组合创建批量任务，系统自动调度执行。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_6.png?raw=true)
+6. 显卡信息显示
+   * **性能监控**：显卡信息实时显示，快速了解任务执行中的显卡性能表现。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_7.png?raw=true)
+7. 结果图下载
+   * **一键下载**：提供一键下载结果大图和4K结果图功能。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_8.png?raw=true)
+8. PSD下载
+   * **后期精修**：一键下载PSD文件，包含原图、蒙版图和结果图，便于Photoshop后期精修。
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_9.png?raw=true)
+9. 推理引擎
+   * **底层技术**：基于AUTOMATIC1111/stable-diffusion-webui，保持最新版本，快速体验社区新功能。
 # 如何在本地使用 Weshop UI
 ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/cn_1.png?raw=true)
 

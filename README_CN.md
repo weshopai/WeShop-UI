@@ -36,7 +36,7 @@ WeShop_UI_1.0.0 是[weshop.com](https://www.weshop.com)的开源版本，它能�
 
 1. 任务管理
    * **永久记录**：保存所有执行记录，便于历史追踪。
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_1.png?raw=true =400x800)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_1.png?raw=true)
    * **任务编辑**：支持对同一任务进行再次编辑和执行，方便参数微调后的对比分析。
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_2.png?raw=true)
    * **任务命名**：允许对任务进行命名，便于快速查找和管理。

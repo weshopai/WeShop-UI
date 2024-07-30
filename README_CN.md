@@ -50,7 +50,7 @@ WeShop_UI_1.0.0 是[weshop.com](https://www.weshop.com)的开源版本，它能�
 4. 星标功能
    * **收藏与展示**：允许用户收藏优秀案例，并置顶展示，快速查看对比图和定位执行记录。
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_5.png?raw=true)
-5.  批量任务创建
+5. 批量任务创建
    * **参数组合**：支持基于不同参数组合创建批量任务，系统自动调度执行。
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_6.png?raw=true)
 6. 显卡信息显示

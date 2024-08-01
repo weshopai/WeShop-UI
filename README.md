@@ -38,28 +38,27 @@ Currently, we've open sourced web and Electron frontend, changes made for Automa
    * **Permanent Records**：All execution records will be saved for future reference.
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_1_en.png?raw=true)
    * **Task Editing**：Supports re-editing and re-execution of the same task, allowing multiple edits to improve results by adjusting parameters.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_2_en.png?raw=true)
    * **Task Re-Naming**：Allows tasks to be re-named for quick search and managemen.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_3_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_2_en.png?raw=true)
 2. Async UI Design
    * **Concurrent Editing**：Allows tasks to be modified simultaneously while other tasks are being executed.
 3. Better and Accurate Mask Area Editing Tools
    * **SegmentAnything集成**：Provides intuitive editing capabilities including subject selection, clothing/appreal selection, invert selection like Photoshop and brush tools.
    * **Upload Mask Image**：Supports uploading customized mask images for more precise segmentation.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_4_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_3_en.png?raw=true)
 4. Save Favorite Photos Feature 
    * **Save and Star**：Allow users to save their best cases, ensuring easy access to the images you love most for future usage. We also allow you to quickly view before-and-after 
      images and their execution records.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_5_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_4_en.png?raw=true)
 5. Task Creation in Batches
    * **Parameter Combinations**：Support creating tasks in batches based on various parameter combinations. WeShop UI will be able to execute those selections in orders automatically.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_6_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_5_en.png?raw=true)
 6. Download Images
    * **One-click download**：Offers a single-click download for both full-size images and 4K images.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_7_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_6_en.png?raw=true)
 7. PSD Download
    * **Post-processing Refinement**：One-click download of PSD files including original image, mask, and generated images for Photoshop refinement.
-     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_8_en.png?raw=true)
+     ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_7_en.png?raw=true)
 8. 8. Inference Engine
    * **Foundational Technology**：Based on AUTOMATIC1111/stable-diffusion-webui, updating with the latest version and better and easier experience the new features 
 

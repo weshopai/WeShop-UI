@@ -60,7 +60,7 @@ Currently, we've open sourced web and Electron frontend, changes made for Automa
 7. PSD Download
    * **Post-processing Refinement**：One-click download of PSD files including original image, mask, and generated images for Photoshop refinement.
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_7_en.png?raw=true)
-8. 8. Inference Engine
+8. Inference Engine
    * **Foundational Technology**：Based on AUTOMATIC1111/stable-diffusion-webui, updating with the latest version and better and easier experience the new features 
 
 # How to use WeShop AI Locally

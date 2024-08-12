@@ -32,18 +32,19 @@ Currently, we've open sourced web and Electron frontend, changes made for Automa
 
 - [ ] More functions to come and feel free to leave you feedbacks!
 
+
 # Features
 
 1. Task Manegement
    * **Permanent Records**：All execution records will be saved for future reference.
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_1_en.png?raw=true)
    * **Task Editing**：Supports re-editing and re-execution of the same task, allowing multiple edits to improve results by adjusting parameters.
-   * **Task Re-Naming**：Allows tasks to be re-named for quick search and managemen.
+   * **Task Re-Naming**：Allows tasks to be re-named for quick search and management.
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_2_en.png?raw=true)
 2. Async UI Design
    * **Concurrent Editing**：Allows tasks to be modified simultaneously while other tasks are being executed.
 3. Better and Accurate Mask Area Editing Tools
-   * **SegmentAnything集成**：Provides intuitive editing capabilities including subject selection, clothing/appreal selection, invert selection like Photoshop and brush tools.
+   * **SegmentAnything**：Provides intuitive editing capabilities including subject selection, clothing/appreal selection, invert selection like Photoshop and brush tools.
    * **Upload Mask Image**：Supports uploading customized mask images for more precise segmentation.
      ![alt text](https://github.com/weshopai/WeShop-UI/blob/main/screenshots/feature_3_en.png?raw=true)
 4. Save Favorite Photos Feature 
